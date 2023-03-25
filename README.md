@@ -1,1 +1,1 @@
-<img src="./qr.jpg" style="aspect-ratio: auto;">
+<img src="./qr.jpg" style="width: 50%; height: auto;">
